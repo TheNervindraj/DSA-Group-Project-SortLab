@@ -37,7 +37,7 @@ namespace DSAGroupProjectSortLab {
 		System::ComponentModel::IContainer^ components;
 
 	public:
-		// Default constructor for Designer
+		
 		ResultForm()
 		{
 			InitializeComponent();
